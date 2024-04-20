@@ -12,8 +12,12 @@ public class Practice1 {
 		int b=30;
 		int c=a+b;
 		System.out.println(c);
-		WebDriver driver=new ChromeDriver();
-		driver.get("");
+		
+	}
+	
+	@Test
+	public static void PracticeForEMp() {
+		String st="shyam";
 	}
 
 }
