@@ -14,9 +14,16 @@ public class Practice1 {
 		System.out.println(c);
 		
 	}
+
 	@Test
 	public static void PracticeEclipseWorkspa() {
 		String s="ram";
+}
+	
+	@Test
+	public static void PracticeForEMp() {
+		String st="shyam";
+
 	}
 
 }
