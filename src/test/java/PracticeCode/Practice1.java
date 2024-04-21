@@ -19,5 +19,10 @@ public class Practice1 {
 	public static void PracticeForEMp() {
 		String st="shyam";
 	}
+	
+	@Test
+	public static void PracticeForEMp1() {
+		int a=45;
+	}
 
 }
