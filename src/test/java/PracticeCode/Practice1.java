@@ -30,5 +30,10 @@ public class Practice1 {
 	public static void PracticeEclipseWorkspa1() {
 		String s="shyam";
 	}
+	
+	@Test
+	public static void PracticeForEMp1() {
+		int a=45;
+	}
 
 }
