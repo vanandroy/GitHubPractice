@@ -18,5 +18,10 @@ public class Practice1 {
 	public static void PracticeEclipseWorkspa() {
 		String s="ram";
 	}
+	
+	@Test
+	public static void PracticeEclipseWorkspa1() {
+		String s="shyam";
+	}
 
 }
