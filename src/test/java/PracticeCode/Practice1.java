@@ -25,5 +25,10 @@ public class Practice1 {
 		String st="shyam";
 
 	}
+	
+	@Test
+	public static void PracticeEclipseWorkspa1() {
+		String s="shyam";
+	}
 
 }
